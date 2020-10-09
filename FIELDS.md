@@ -1,5 +1,6 @@
 Set of suggested fields for `update_field` method:
 
+- name
 - url
 - twitter
 - email
